@@ -27,7 +27,6 @@ Each pattern corresponds to one or more arcs from the XpectraNet Codex (Arc 0–
 - [Semantic Trail Resonance Pattern](semantic_trail_resonance_pattern.md)
 - [Cognitive Clustering Pattern](cognitive_clustering_pattern.md)
 - [Trail Reweaving Pattern](trail_reweaving_pattern.md)
-
 - [Validator Archetype Invocation Pattern](validator_archetype_invocation_pattern.md)
 
 ---
@@ -53,8 +52,6 @@ Each pattern corresponds to one or more arcs from the XpectraNet Codex (Arc 0–
 - [Echo Canon Pattern](echo_canon_pattern.md)
 - [Consensus Through Divergence Pattern](consensus_through_divergence_pattern.md)
 - [Circle-as-a-Service (CaaS) Pattern](circle_as_a_service_pattern.md)
-
-- [Agent Constellation Pattern](agent_constellation_pattern.md)
 
 ---
 
