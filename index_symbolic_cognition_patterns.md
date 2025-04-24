@@ -49,6 +49,12 @@ Each pattern corresponds to one or more arcs from the XpectraNet Codex (Arc 0–
 ## 🌌 Arc X: Future Constructs & Advanced Symbolism
 
 - [Agent Constellation Pattern](agent_constellation_pattern.md)
+- [Zero-Knowledge Ritual Pattern](zero_knowledge_ritual_pattern.md)
+- [Echo Canon Pattern](echo_canon_pattern.md)
+- [Consensus Through Divergence Pattern](consensus_through_divergence_pattern.md)
+- [Circle-as-a-Service (CaaS) Pattern](circle_as_a_service_pattern.md)
+
+- [Agent Constellation Pattern](agent_constellation_pattern.md)
 
 ---
 
