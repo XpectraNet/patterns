@@ -24,6 +24,10 @@ Each pattern corresponds to one or more arcs from the XpectraNet Codex (Arc 0–
 
 ## 🌐 Arc 6–7: Collective Cognition & Ritual Finality
 
+- [Semantic Trail Resonance Pattern](semantic_trail_resonance_pattern.md)
+- [Cognitive Clustering Pattern](cognitive_clustering_pattern.md)
+- [Trail Reweaving Pattern](trail_reweaving_pattern.md)
+
 - [Validator Archetype Invocation Pattern](validator_archetype_invocation_pattern.md)
 
 ---
