@@ -39,6 +39,13 @@ These patterns are meant to evolve. Feel free to propose your own, fork the form
 
 ---
 
+## 🧭 Pattern Index
+
+See the full table of contents and categorized patterns here:  
+👉 [index_symbolic_cognition_patterns.md](index_symbolic_cognition_patterns.md)
+
+---
+
 ## 📖 Read Online  
 Coming soon: [patterns.xpectranet.org](https://patterns.xpectranet.org)
 
