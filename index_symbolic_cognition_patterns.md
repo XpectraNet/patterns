@@ -6,6 +6,12 @@ Each pattern corresponds to one or more arcs from the XpectraNet Codex (Arc 0–
 
 ---
 
+## 🧾 Preface
+
+- [Preface: Why Patterns for Symbolic Cognition](preface_symbolic_cognition_patterns.md)
+
+---
+
 ## ✅ Arc 0–3: Memory Semantics & Alignment
 
 - [Remix Fork Manifest Pattern](remix_fork_manifest_pattern.md)
@@ -35,6 +41,8 @@ Each pattern corresponds to one or more arcs from the XpectraNet Codex (Arc 0–
 
 - [Mythic Convergence Pattern](mythic_convergence_pattern.md)
 - [Archetype Formation Pattern](archetype_formation_pattern.md)
+- [Echo Canon Pattern](echo_canon_pattern.md)
+- [Consensus Through Divergence Pattern](consensus_through_divergence_pattern.md)
 
 ---
 
@@ -45,19 +53,10 @@ Each pattern corresponds to one or more arcs from the XpectraNet Codex (Arc 0–
 
 ---
 
-## 🌌 Arc X: Future Constructs & Advanced Symbolism
+## 🌌 Arc X: Advanced Symbolism
 
 - [Agent Constellation Pattern](agent_constellation_pattern.md)
-- [Zero-Knowledge Ritual Pattern](zero_knowledge_ritual_pattern.md)
-- [Echo Canon Pattern](echo_canon_pattern.md)
-- [Consensus Through Divergence Pattern](consensus_through_divergence_pattern.md)
 - [Circle-as-a-Service (CaaS) Pattern](circle_as_a_service_pattern.md)
-
----
-
-## 🧾 Preface
-
-- [Preface: Why Patterns for Symbolic Cognition](preface_symbolic_cognition_patterns.md)
 
 ---
 
